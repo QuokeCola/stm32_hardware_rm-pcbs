@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=CAN2_L Pin=CONNECTOR-11
-Removed Pin From Net: NetName=CAN2_H Pin=CONNECTOR-12
-Added Pin To Net: NetName=CAN2_H Pin=CONNECTOR-11
-Added Pin To Net: NetName=CAN2_L Pin=CONNECTOR-12
-Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
-Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
-Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
-Added Room: Name=MAIN Schematic

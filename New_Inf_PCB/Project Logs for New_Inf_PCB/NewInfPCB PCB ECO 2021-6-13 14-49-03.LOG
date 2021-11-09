@@ -1,8 +1,0 @@
-Added Component: Designator=JETSON(DC-012)
-Added Pin To Net: NetName=MPC_DC Pin=JETSON-1
-Added Pin To Net: NetName=MPC_GND Pin=JETSON-2
-Added Pin To Net: NetName=MPC_GND Pin=JETSON-3
-Added Member To Class: ClassName=NewInfSche Member=Component JETSON DC_PowerPort
-Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
-Added Member To Class: ClassName=NewInfSche Member=Component SWIM1 Header 5
-Added Room: Name=NewInfSche

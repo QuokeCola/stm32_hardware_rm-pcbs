@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=UART_GND Pin=RF_UART-2
-Removed Pin From Net: NetName=UART_Tx Pin=RF_UART-3
-Removed Pin From Net: NetName=UART_RX Pin=RF_UART-4
-Added Pin To Net: NetName=UART_Tx Pin=RF_UART-1
-Added Pin To Net: NetName=UART_RX Pin=RF_UART-2
-Added Pin To Net: NetName=UART_GND Pin=RF_UART-3
-Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
-Added Room: Name=NewInfSche

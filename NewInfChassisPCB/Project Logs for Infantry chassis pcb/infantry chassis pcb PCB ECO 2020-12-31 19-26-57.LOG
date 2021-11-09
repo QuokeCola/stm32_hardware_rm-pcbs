@@ -1,6 +1,0 @@
-Change Component Comment : Designator=RA Old Comment=1K New Comment=10K
-Change Component Comment : Designator=RG Old Comment=1K New Comment=10K
-Change Component Comment : Designator=RM Old Comment=1K New Comment=10K
-Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
-Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
-Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN

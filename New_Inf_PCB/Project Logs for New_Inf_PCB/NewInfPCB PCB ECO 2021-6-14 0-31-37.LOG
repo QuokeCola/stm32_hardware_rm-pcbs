@@ -1,7 +1,0 @@
-Added Component: Designator=SERIAL(GH1.25-LS-4P)
-Added Pin To Net: NetName=RXD Pin=SERIAL-2
-Added Pin To Net: NetName=TXD Pin=SERIAL-3
-Added Pin To Net: NetName=GND Pin=SERIAL-4
-Added Member To Class: ClassName=NewInfSche Member=Component SERIAL gh1.25_4p
-Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
-Added Room: Name=NewInfSche

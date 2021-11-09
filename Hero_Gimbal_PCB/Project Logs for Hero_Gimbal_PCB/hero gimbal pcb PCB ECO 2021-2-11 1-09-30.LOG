@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=* NewDesignator=REF_A
-Change Component Designator: OldDesignator=PITCH_6020 NewDesignator=PITCH
-Change Component Designator: OldDesignator=REF_UART NewDesignator=REF_U
-Added Member To Class: ClassName=Schematic Member=Component CAN1
-Added Member To Class: ClassName=Schematic Member=Component CAN1
-Added Member To Class: ClassName=Schematic Member=Component CAN1
-Added Room: Name=Schematic

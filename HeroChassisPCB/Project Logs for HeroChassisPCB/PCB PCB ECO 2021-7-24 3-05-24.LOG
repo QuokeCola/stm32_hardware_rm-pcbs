@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=REFEREE_GND Pin=CONNECTOR-3
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Room: Name=ChassisPCBSchematic

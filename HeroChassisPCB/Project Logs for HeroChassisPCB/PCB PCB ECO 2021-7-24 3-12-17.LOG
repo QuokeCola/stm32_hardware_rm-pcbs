@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=GIMBAL_DC Pin=YAW-1
-Added Pin To Net: NetName=GND Pin=YAW-2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Room: Name=ChassisPCBSchematic

@@ -1,4 +1,0 @@
-Added Component: Designator=CAN2(GH1.25-LS-4P)
-Added Pin To Net: NetName=CAN2_L Pin=CAN2-2
-Added Pin To Net: NetName=CAN2_H Pin=CAN2-3
-Added Member To Class: ClassName=Schematic Member=Component CAN2 gh1.25_4p

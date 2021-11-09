@@ -1,8 +1,0 @@
-Added Component: Designator=PLATE(XT30-M)
-Added Pin To Net: NetName=AMMO_DC Pin=PLATE-1
-Added Pin To Net: NetName=GND Pin=PLATE-2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component PLATE XT PLUGIN
-Added Room: Name=ChassisPCBSchematic

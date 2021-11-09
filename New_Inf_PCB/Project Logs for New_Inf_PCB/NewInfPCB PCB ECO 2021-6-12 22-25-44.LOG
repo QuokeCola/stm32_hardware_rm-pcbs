@@ -1,6 +1,0 @@
-Added Component: Designator=RF_UART(GH1.25-LS-4P)
-Added Pin To Net: NetName=UART_GND Pin=RF_UART-2
-Added Pin To Net: NetName=UART_Tx Pin=RF_UART-3
-Added Pin To Net: NetName=UART_RX Pin=RF_UART-4
-Added Member To Class: ClassName=NewInfSche Member=Component REF_A Referee_Air
-Added Member To Class: ClassName=NewInfSche Member=Component RF_UART gh1.25 P4

@@ -1,8 +1,0 @@
-Added Component: Designator=REF_U(GH1.25-LS-3P)
-Added Pin To Net: NetName=REFEREE_UT Pin=REF_U-2
-Added Pin To Net: NetName=REFEREE_UR Pin=REF_U-3
-Added Member To Class: ClassName=Schematic Member=Component AMMO XT PLUGIN
-Added Member To Class: ClassName=Schematic Member=Component MPC XT PLUGIN
-Added Member To Class: ClassName=Schematic Member=Component REF_U gh1.25_3p
-Added Member To Class: ClassName=Schematic Member=Component YAW XT PLUGIN
-Added Room: Name=Schematic

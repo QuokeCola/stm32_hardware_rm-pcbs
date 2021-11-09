@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=PITCH NewDesignator=YAW
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
-Added Member To Class: ClassName=ChassisPCBSchematic Member=Component YAW XT PLUGIN
-Added Room: Name=ChassisPCBSchematic
