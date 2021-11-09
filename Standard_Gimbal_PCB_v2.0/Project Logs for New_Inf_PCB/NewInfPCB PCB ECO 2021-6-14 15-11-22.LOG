@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=REFEREE_B1 Pin=PLUGIN-2
+Removed Pin From Net: NetName=UART_RX Pin=PLUGIN-3
+Removed Pin From Net: NetName=REFEREE_B2 Pin=PLUGIN-4
+Removed Pin From Net: NetName=UART_Tx Pin=PLUGIN-5
+Removed Pin From Net: NetName=REFEREE_B3 Pin=PLUGIN-6
+Removed Pin From Net: NetName=UART_GND Pin=PLUGIN-7
+Removed Pin From Net: NetName=REFEREE_B4 Pin=PLUGIN-8
+Removed Pin From Net: NetName=CAN2_H Pin=PLUGIN-9
+Removed Pin From Net: NetName=REFEREE_A1 Pin=PLUGIN-10
+Removed Pin From Net: NetName=REFEREE_A2 Pin=PLUGIN-12
+Removed Pin From Net: NetName=CAN2_L Pin=PLUGIN-13
+Removed Pin From Net: NetName=REFEREE_A3 Pin=PLUGIN-14
+Removed Pin From Net: NetName=REFEREE_A4 Pin=PLUGIN-16
+Removed Member From Class: ClassName=NewInfSche Member=PLUGIN
+Added Component: Designator=USB?(USB-C/S_B)
+Add component (AddParameter): Name = "BOM名称"; Value = "USB-C型母接口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝 ID：黄晶宝石"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Member To Class: ClassName=NewInfSche Member=Component USB? USB-C
+Added Room: Name=NewInfSche

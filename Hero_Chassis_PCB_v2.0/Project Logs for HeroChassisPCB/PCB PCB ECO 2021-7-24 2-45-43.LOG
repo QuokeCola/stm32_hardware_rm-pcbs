@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=AMMO_DC Pin=AMMO-1
+Removed Pin From Net: NetName=GND Pin=AMMO-2
+Removed Pin From Net: NetName=GIMBAL_DC Pin=GIMBAL-1
+Removed Pin From Net: NetName=GND Pin=GIMBAL-2
+Removed Pin From Net: NetName=MPC_DC Pin=MPC-1
+Removed Pin From Net: NetName=GND Pin=MPC-2
+Change Component Footprint: Designator=AMMO Old Footprint=XT30-M New Footprint=XT30PWM
+Change Component Footprint: Designator=GIMBAL Old Footprint=XT30-M New Footprint=XT30PWM
+Change Component Footprint: Designator=MPC Old Footprint=XT30-M New Footprint=XT30PWM
+Change Component Comment : Designator=AMMO Old Comment=XT PLUGIN New Comment=XT30PW-M
+Change Component Comment : Designator=GIMBAL Old Comment=XT PLUGIN New Comment=XT30PW-M
+Change Component Comment : Designator=MPC Old Comment=XT PLUGIN New Comment=XT30PW-M
+Change component parameters: Designator = "AMMO" ("AMMO"); Footprint = "XT30-M"; UniqueID = "\ZTFGWVRN" ("\ZTFGWVRN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/sl/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "GIMBAL" ("GIMBAL"); Footprint = "XT30-M"; UniqueID = "\KOJRDUUI" ("\KOJRDUUI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/sl/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "MPC" ("MPC"); Footprint = "XT30-M"; UniqueID = "\JUGDHANG" ("\JUGDHANG")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.tme.eu/sl/Document/ce4077e36b79046da520ca73227e15de/XT30PW%20SPEC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XT30PW-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Room: Name=ChassisPCBSchematic

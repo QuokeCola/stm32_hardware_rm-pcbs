@@ -1,0 +1,17 @@
+Added Component: Designator=CONNECTOR(KF128-5.08-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MPC_DC Pin=CONNECTOR-1
+Added Pin To Net: NetName=AMMO_DC Pin=CONNECTOR-2
+Added Pin To Net: NetName=GIMBAL_DC Pin=CONNECTOR-3
+Added Pin To Net: NetName=GND Pin=CONNECTOR-4
+Added Pin To Net: NetName=CAN2_H Pin=CONNECTOR-5
+Added Pin To Net: NetName=CAN2_L Pin=CONNECTOR-6
+Added Pin To Net: NetName=REFEREE_A1 Pin=CONNECTOR-7
+Added Pin To Net: NetName=REFEREE_A2 Pin=CONNECTOR-8
+Added Pin To Net: NetName=REFEREE_A3 Pin=CONNECTOR-9
+Added Pin To Net: NetName=REFEREE_UR Pin=CONNECTOR-10
+Added Pin To Net: NetName=REFEREE_UT Pin=CONNECTOR-11
+Added Pin To Net: NetName=REFEREE_GND Pin=CONNECTOR-12
+Added Member To Class: ClassName=Schematic Member=Component CONNECTOR HDR-1X12

@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Standard_Chassis_PCB_v1.0\Standard_Gimbal_PCB_v1.0.PrjPcb
+[Project2]
+ProjectPath=Standard_Gimbal_PCB_v1.0\Standard_Chassis_PCB_v1.0.PrjPcb
+[Project3]
+ProjectPath=Standard_Chassis_PCB_v2.0\Standard_Chassis_PCB_v2.0.PrjPcb
+[Project4]
+ProjectPath=Standard_Gimbal_PCB_v2.0\Standard_Gimbal_PCB_v2.0.PrjPcb
+[Project5]
+ProjectPath=Standard_subYAW_PCB_V2.0\Standard_subYAW_PCB_v2.0.PrjPcb

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=GMB Old Footprint=LED 0603G New Footprint=LED 0805G
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN

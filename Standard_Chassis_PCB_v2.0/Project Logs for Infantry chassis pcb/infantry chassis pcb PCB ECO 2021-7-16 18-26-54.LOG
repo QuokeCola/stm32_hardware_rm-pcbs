@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=6020 NewDesignator=CAN 6020
+Added Component: Designator=REF_A(M8 Connector)
+Added Component: Designator=REF_A(M8 Connector)
+Added Pin To Net: NetName=Referee_1A Pin=REF_A-0
+Added Pin To Net: NetName=Referee_2A Pin=REF_A-0
+Added Pin To Net: NetName=Referee_1B Pin=REF_A-1
+Added Pin To Net: NetName=Referee_2B Pin=REF_A-1
+Added Pin To Net: NetName=Referee_1C Pin=REF_A-2
+Added Pin To Net: NetName=Referee_2C Pin=REF_A-2
+Added Pin To Net: NetName=Referee_1D Pin=REF_A-3
+Added Pin To Net: NetName=Referee_2D Pin=REF_A-3
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component REF_A Referee_Air
+Added Member To Class: ClassName=schematic Member=Component REF_A Referee_Air
+Added Room: Name=schematic

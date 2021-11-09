@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GIMBAL_DC Pin=CONNECTOR-9
+Removed Pin From Net: NetName=GND Pin=CONNECTOR-10
+Added Pin To Net: NetName=GND Pin=CONNECTOR-9
+Added Pin To Net: NetName=GIMBAL_DC Pin=CONNECTOR-10
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Room: Name=Schematic

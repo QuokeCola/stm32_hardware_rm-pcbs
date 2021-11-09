@@ -1,0 +1,8 @@
+Added Component: Designator=JETSON(XT30-M)
+Added Pin To Net: NetName=GND Pin=JETSON-1
+Added Pin To Net: NetName=MPC_DC Pin=JETSON-2
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component JETSON XT PLUGIN
+Added Room: Name=Schematic

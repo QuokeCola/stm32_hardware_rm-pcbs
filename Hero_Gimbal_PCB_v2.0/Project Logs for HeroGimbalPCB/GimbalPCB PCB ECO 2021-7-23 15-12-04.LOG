@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=TRANSFGND Pin=BOARD-1
+Removed Pin From Net: NetName=5V0 Pin=BOARD-2
+Removed Pin From Net: NetName=MPC_DC Pin=JETSON-1
+Removed Pin From Net: NetName=GND Pin=JETSON-2
+Added Pin To Net: NetName=MPC_DC Pin=BOARD-1
+Added Pin To Net: NetName=GND Pin=BOARD-2
+Added Pin To Net: NetName=TRANSFGND Pin=JETSON-1
+Added Pin To Net: NetName=5V0 Pin=JETSON-2
+Added Member To Class: ClassName=MAIN Schematic Member=Component BOARD XT PLUGIN
+Added Member To Class: ClassName=MAIN Schematic Member=Component BOARD XT PLUGIN
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Room: Name=MAIN Schematic

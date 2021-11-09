@@ -1,0 +1,9 @@
+Added Component: Designator=USB2(USB-A/S_D)
+Added Pin To Net: NetName=GNDG Pin=USB2-1
+Added Pin To Net: NetName=GNDG Pin=USB2-1
+Added Pin To Net: NetName=GNDG Pin=USB2-1
+Added Pin To Net: NetName=NetR32_1 Pin=USB2-2
+Added Pin To Net: NetName=NetR33_1 Pin=USB2-3
+Added Pin To Net: NetName=5V0 Pin=USB2-4
+Added Member To Class: ClassName=NewInfSche Member=Component REF_A Referee_Air
+Added Member To Class: ClassName=NewInfSche Member=Component USB2 USB

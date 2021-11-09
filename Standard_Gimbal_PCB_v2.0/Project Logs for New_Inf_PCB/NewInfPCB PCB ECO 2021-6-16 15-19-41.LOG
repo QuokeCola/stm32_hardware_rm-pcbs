@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SIGNALPORT Old Footprint=HDMI-MINI-19 New Footprint=DC-2.54-L-Z-14P
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER

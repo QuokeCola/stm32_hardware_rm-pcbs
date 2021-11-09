@@ -1,0 +1,19 @@
+Added Component: Designator=RFGimbal(M12 8PIN)
+Added Component: Designator=SIGGimbal(M12 5PIN)
+Added Pin To Net: NetName=REFEREE_B1 Pin=RFGimbal-1
+Added Pin To Net: NetName=REFEREE_B2 Pin=RFGimbal-2
+Added Pin To Net: NetName=REFEREE_B3 Pin=RFGimbal-3
+Added Pin To Net: NetName=REFEREE_B4 Pin=RFGimbal-4
+Added Pin To Net: NetName=REFEREE_B4 Pin=RFGimbal-4
+Added Pin To Net: NetName=REFEREE_B4 Pin=RFGimbal-4
+Added Pin To Net: NetName=REFEREE_B4 Pin=RFGimbal-4
+Added Pin To Net: NetName=REFEREE_A1 Pin=RFGimbal-5
+Added Pin To Net: NetName=UART_RX Pin=SIGGimbal-1
+Added Pin To Net: NetName=UART_Tx Pin=SIGGimbal-2
+Added Pin To Net: NetName=UART_GND Pin=SIGGimbal-3
+Added Pin To Net: NetName=CAN2_H Pin=SIGGimbal-4
+Added Pin To Net: NetName=CAN2_L Pin=SIGGimbal-5
+Added Member To Class: ClassName=NewInfSche Member=Component RFGimbal M12_8P
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Member To Class: ClassName=NewInfSche Member=Component SIGGimbal M12_5P
+Added Room: Name=NewInfSche

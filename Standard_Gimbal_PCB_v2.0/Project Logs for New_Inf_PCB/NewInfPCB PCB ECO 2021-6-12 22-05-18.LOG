@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MPC_DC Pin=BOARD_P-1
+Removed Pin From Net: NetName=MPC_GND Pin=BOARD_P-2
+Added Pin To Net: NetName=GMB_DC Pin=BOARD_P-1
+Added Pin To Net: NetName=GMB_GND Pin=BOARD_P-2
+Added Member To Class: ClassName=NewInfSche Member=Component REF_A Referee_Air
+Added Room: Name=NewInfSche

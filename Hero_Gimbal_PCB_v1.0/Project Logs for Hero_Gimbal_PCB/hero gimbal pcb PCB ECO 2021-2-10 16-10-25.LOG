@@ -1,0 +1,6 @@
+Added Component: Designator=REFEREE_A(M8 Connector)
+Added Pin To Net: NetName=REFEREE_A1 Pin=REFEREE_A-0
+Added Pin To Net: NetName=REFEREE_A2 Pin=REFEREE_A-1
+Added Pin To Net: NetName=REFEREE_GND Pin=REFEREE_A-2
+Added Pin To Net: NetName=REFEREE_A3 Pin=REFEREE_A-3
+Added Member To Class: ClassName=Schematic Member=Component REFEREE_A Referee_Air

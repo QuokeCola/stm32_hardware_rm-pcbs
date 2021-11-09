@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=usb Old Footprint=USB¡ª¹« New Footprint=USB-A/S_D
+Added Member To Class: ClassName=NewInfSche Member=Component REF_A Referee_Air

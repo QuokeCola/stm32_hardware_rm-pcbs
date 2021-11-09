@@ -1,0 +1,51 @@
+Added Component: Designator=AMMO(LED 0805G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=GMB(LED 0603G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=MPC(LED 0805G)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RA(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=RG(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=RM(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AMMO_GND Pin=AMMO-2
+Added Pin To Net: NetName=GMB_GND Pin=GMB-2
+Added Pin To Net: NetName=MPC_GND Pin=MPC-2
+Added Pin To Net: NetName=AMMO_GND Pin=RA-1
+Added Pin To Net: NetName=GMB_DC Pin=RG-1
+Added Pin To Net: NetName=MPC_DC Pin=RM-1
+Added Pin To Net: NetName=NetAMMO_1 Pin=AMMO-1
+Added Pin To Net: NetName=NetAMMO_1 Pin=RA-2
+Added Net: Name=NetAMMO_1
+Added Pin To Net: NetName=NetGMB_1 Pin=GMB-1
+Added Pin To Net: NetName=NetGMB_1 Pin=RG-2
+Added Net: Name=NetGMB_1
+Added Pin To Net: NetName=NetMPC_1 Pin=MPC-1
+Added Pin To Net: NetName=NetMPC_1 Pin=RM-2
+Added Net: Name=NetMPC_1
+Added Member To Class: ClassName=schematic Member=Component AMMO 红色
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB 红色
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC 红色
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component RA 1K
+Added Member To Class: ClassName=schematic Member=Component RG 1K
+Added Member To Class: ClassName=schematic Member=Component RM 1K

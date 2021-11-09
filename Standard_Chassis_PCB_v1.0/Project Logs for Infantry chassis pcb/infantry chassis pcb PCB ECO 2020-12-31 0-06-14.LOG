@@ -1,0 +1,107 @@
+Added Component: Designator=AMMO(XT30-M)
+Added Component: Designator=CAN2(JST-BM02B-GHS-TBT_V)
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "OuterShroudContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "LockingRamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST-Sales-America-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BM02B-GHS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049"(1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=GMB(XT30-M)
+Added Component: Designator=MPC(XT30-M)
+Added Component: Designator=PLUGIN(IDC2.54-LI-2x17P)
+Add component (AddParameter): Name = "BOM名称"; Value = "17*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RF1(KF2510-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RF2(KF2510-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=RF_UART(HDR2.54-LI-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AMMO_DC Pin=AMMO-1
+Added Pin To Net: NetName=AMMO_GND Pin=AMMO-2
+Added Pin To Net: NetName=CAN2_L Pin=CAN2-1
+Added Pin To Net: NetName=CAN2_H Pin=CAN2-2
+Added Pin To Net: NetName=CAN2_L Pin=CAN2-MP1
+Added Pin To Net: NetName=CAN2_H Pin=CAN2-MP2
+Added Pin To Net: NetName=GMB_DC Pin=GMB-1
+Added Pin To Net: NetName=GMB_GND Pin=GMB-2
+Added Pin To Net: NetName=MPC_DC Pin=MPC-1
+Added Pin To Net: NetName=MPC_GND Pin=MPC-2
+Added Pin To Net: NetName=Referee_2A Pin=PLUGIN-2
+Added Pin To Net: NetName=Referee_2B Pin=PLUGIN-4
+Added Pin To Net: NetName=Referee_2C Pin=PLUGIN-6
+Added Pin To Net: NetName=UART_GND Pin=PLUGIN-7
+Added Pin To Net: NetName=Referee_2D Pin=PLUGIN-8
+Added Pin To Net: NetName=CAN2_H Pin=PLUGIN-9
+Added Pin To Net: NetName=Referee_1A Pin=PLUGIN-10
+Added Pin To Net: NetName=CAN2_H Pin=PLUGIN-11
+Added Pin To Net: NetName=Referee_1B Pin=PLUGIN-12
+Added Pin To Net: NetName=CAN2_L Pin=PLUGIN-13
+Added Pin To Net: NetName=Referee_1C Pin=PLUGIN-14
+Added Pin To Net: NetName=CAN2_L Pin=PLUGIN-15
+Added Pin To Net: NetName=Referee_1D Pin=PLUGIN-16
+Added Pin To Net: NetName=GMB_DC Pin=PLUGIN-17
+Added Pin To Net: NetName=MPC_GND Pin=PLUGIN-18
+Added Pin To Net: NetName=GMB_DC Pin=PLUGIN-19
+Added Pin To Net: NetName=MPC_GND Pin=PLUGIN-20
+Added Pin To Net: NetName=GMB_DC Pin=PLUGIN-21
+Added Pin To Net: NetName=MPC_GND Pin=PLUGIN-22
+Added Pin To Net: NetName=AMMO_GND Pin=PLUGIN-23
+Added Pin To Net: NetName=MPC_DC Pin=PLUGIN-24
+Added Pin To Net: NetName=AMMO_GND Pin=PLUGIN-25
+Added Pin To Net: NetName=MPC_DC Pin=PLUGIN-26
+Added Pin To Net: NetName=AMMO_GND Pin=PLUGIN-27
+Added Pin To Net: NetName=MPC_DC Pin=PLUGIN-28
+Added Pin To Net: NetName=AMMO_DC Pin=PLUGIN-29
+Added Pin To Net: NetName=GMB_GND Pin=PLUGIN-30
+Added Pin To Net: NetName=AMMO_DC Pin=PLUGIN-31
+Added Pin To Net: NetName=GMB_GND Pin=PLUGIN-32
+Added Pin To Net: NetName=AMMO_DC Pin=PLUGIN-33
+Added Pin To Net: NetName=GMB_GND Pin=PLUGIN-34
+Added Pin To Net: NetName=Referee_1D Pin=RF1-1
+Added Pin To Net: NetName=Referee_1C Pin=RF1-2
+Added Pin To Net: NetName=Referee_1B Pin=RF1-3
+Added Pin To Net: NetName=Referee_1A Pin=RF1-4
+Added Pin To Net: NetName=Referee_2D Pin=RF2-1
+Added Pin To Net: NetName=Referee_2C Pin=RF2-2
+Added Pin To Net: NetName=Referee_2B Pin=RF2-3
+Added Pin To Net: NetName=Referee_2A Pin=RF2-4
+Added Pin To Net: NetName=UART_GND Pin=RF_UART-1
+Added Pin To Net: NetName=UART_Tx Pin=RF_UART-2
+Added Pin To Net: NetName=UART_RX Pin=RF_UART-3
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component CAN2
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component PLUGIN Header 2X11
+Added Member To Class: ClassName=schematic Member=Component RF1 HDR-1X4
+Added Member To Class: ClassName=schematic Member=Component RF2 HDR-1X4
+Added Member To Class: ClassName=schematic Member=Component RF_UART HDR-1X3
+Added Room: Name=schematic

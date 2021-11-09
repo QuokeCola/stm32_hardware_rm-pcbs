@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=BOARD NewDesignator=TRANS_IN
+Change Component Designator: OldDesignator=BOARD NewDesignator=TRANS_OUT
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component TRANS_IN XT PLUGIN
+Added Member To Class: ClassName=MAIN Schematic Member=Component TRANS_OUT XT PLUGIN
+Added Room: Name=MAIN Schematic

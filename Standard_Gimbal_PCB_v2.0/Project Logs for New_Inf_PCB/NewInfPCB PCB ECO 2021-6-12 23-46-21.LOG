@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SWIM1 Old Footprint=HEADER 5 New Footprint=HDR2.54-LI-5P
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=CAN 6020 NewDesignator=6020
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component REF_A Referee_Air
+Added Room: Name=schematic

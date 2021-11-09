@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=REFEREE_A1 Pin=*-0
+Removed Pin From Net: NetName=REFEREE_A2 Pin=*-1
+Removed Pin From Net: NetName=REFEREE_GND Pin=*-2
+Removed Pin From Net: NetName=REFEREE_A3 Pin=*-3

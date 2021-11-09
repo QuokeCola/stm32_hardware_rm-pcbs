@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=TRANS_IN-1
+Removed Pin From Net: NetName=MPC_DC Pin=TRANS_IN-2
+Removed Pin From Net: NetName=TRANSFGND Pin=TRANS_OUT-1
+Removed Pin From Net: NetName=5V0 Pin=TRANS_OUT-2
+Change Component Description : Designator=CONNECTOR Old Description=12P接插件 New Description=12P???
+Change Component Library : Designator=CONNECTOR Old Library=5.7 - 接插件-脚距3.96.SchLib New Library=5.7 - ???-??3.96.SchLib
+Change component parameters: Designator = "CONNECTOR" ("CONNECTOR"); Footprint = "HT3.96-LI-12P"; UniqueID = "\GXRMNZWP" ("\GXRMNZWP")
+Change component parameters (AddParameter): Name = "BOM??"; Value = "12P???"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "????"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "????"; Value = "????????? ID:????"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MPC_DC Pin=TRANS_IN-1
+Added Pin To Net: NetName=GND Pin=TRANS_IN-2
+Added Pin To Net: NetName=5V0 Pin=TRANS_OUT-1
+Added Pin To Net: NetName=TRANSFGND Pin=TRANS_OUT-2
+Added Member To Class: ClassName=MAIN Schematic Member=Component BOARD XT PLUGIN
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Room: Name=MAIN Schematic

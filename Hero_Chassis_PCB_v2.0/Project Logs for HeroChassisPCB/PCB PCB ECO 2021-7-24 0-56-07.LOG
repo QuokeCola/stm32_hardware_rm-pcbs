@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=AMMO_DC Pin=FW_R-1
+Removed Pin From Net: NetName=GND Pin=FW_R-2
+Removed Pin From Net: NetName=REFEREE_UT Pin=REF_U-2
+Removed Pin From Net: NetName=REFEREE_UR Pin=REF_U-3
+Removed Pin From Net: NetName=REFEREE_GND Pin=REF_U-4
+Removed Member From Class: ClassName=ChassisPCBSchematic Member=FW_R
+Change Component Footprint: Designator=REF_U Old Footprint=GH1.25-LS-4P New Footprint=GH1.25-LS-3P
+Change Component Comment : Designator=REF_U Old Comment=gh1.25_4p New Comment=gh1.25_3p
+Change Component Designator: OldDesignator=BOARD NewDesignator=MPC
+Change Component Designator: OldDesignator=FW_L NewDesignator=AMMO
+Change Component Designator: OldDesignator=JETSON NewDesignator=PITCH
+Change Component Designator: OldDesignator=PITCH NewDesignator=GIMBAL
+Added Pin To Net: NetName=REFEREE_UT Pin=REF_U-1
+Added Pin To Net: NetName=REFEREE_UR Pin=REF_U-2
+Added Pin To Net: NetName=REFEREE_GND Pin=REF_U-3
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Member To Class: ClassName=ChassisPCBSchematic Member=Component CAN2
+Added Room: Name=ChassisPCBSchematic
