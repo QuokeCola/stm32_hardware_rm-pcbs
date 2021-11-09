@@ -1,0 +1,32 @@
+Added Component: Designator=REF_A(M8 Connector)
+Added Component: Designator=REF_A(M8 Connector)
+Added Pin To Net: NetName=REFEREE_A1 Pin=PLUGIN-8
+Added Pin To Net: NetName=REFEREE_A1 Pin=REF_A-0
+Added Net: Name=REFEREE_A1
+Added Pin To Net: NetName=REFEREE_A2 Pin=PLUGIN-4
+Added Pin To Net: NetName=REFEREE_A2 Pin=REF_A-1
+Added Net: Name=REFEREE_A2
+Added Pin To Net: NetName=REFEREE_A3 Pin=PLUGIN-6
+Added Pin To Net: NetName=REFEREE_A3 Pin=REF_A-2
+Added Net: Name=REFEREE_A3
+Added Pin To Net: NetName=REFEREE_A4 Pin=PLUGIN-2
+Added Pin To Net: NetName=REFEREE_A4 Pin=REF_A-3
+Added Net: Name=REFEREE_A4
+Added Pin To Net: NetName=REFEREE_B1 Pin=PLUGIN-16
+Added Pin To Net: NetName=REFEREE_B1 Pin=REF_A-0
+Added Net: Name=REFEREE_B1
+Added Pin To Net: NetName=REFEREE_B2 Pin=PLUGIN-12
+Added Pin To Net: NetName=REFEREE_B2 Pin=REF_A-1
+Added Net: Name=REFEREE_B2
+Added Pin To Net: NetName=REFEREE_B3 Pin=PLUGIN-14
+Added Pin To Net: NetName=REFEREE_B3 Pin=REF_A-2
+Added Net: Name=REFEREE_B3
+Added Pin To Net: NetName=REFEREE_B4 Pin=PLUGIN-10
+Added Pin To Net: NetName=REFEREE_B4 Pin=REF_A-3
+Added Net: Name=REFEREE_B4
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component REF_A Referee_Air
+Added Member To Class: ClassName=schematic Member=Component REF_A Referee_Air
+Added Room: Name=schematic

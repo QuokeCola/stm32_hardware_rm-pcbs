@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Blower Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
+Change Component Footprint: Designator=Cooler Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
+Change Component Footprint: Designator=PL08N-P Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
+Change Component Footprint: Designator=Thermo Old Footprint=XH2.54-WI-2P New Footprint=XH2.54-LI-2P
+Change Component Footprint: Designator=Extruder Old Footprint=XH2.54-WI-4P New Footprint=XH2.54-LI-4P

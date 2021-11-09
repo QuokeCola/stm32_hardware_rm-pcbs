@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=CONNECTOR Old Footprint=KF2EDGK5.08-LI-12P New Footprint=HT3.96-LI-12P
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Member To Class: ClassName=MAIN Schematic Member=Component CAN1
+Added Room: Name=MAIN Schematic

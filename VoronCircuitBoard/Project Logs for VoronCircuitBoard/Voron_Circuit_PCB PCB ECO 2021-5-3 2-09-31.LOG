@@ -1,0 +1,9 @@
+Added Component: Designator=JP?(IDC2.54-LI-2x8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BlowerHIGH Pin=JP?-1
+Added Pin To Net: NetName=CoolerLOW Pin=JP?-2
+Added Pin To Net: NetName=BlowerLow Pin=JP?-3
+Added Pin To Net: NetName=CoolerHIGH Pin=JP?-4
+Added Member To Class: ClassName=Schematic Member=Component JP? Header 8X2

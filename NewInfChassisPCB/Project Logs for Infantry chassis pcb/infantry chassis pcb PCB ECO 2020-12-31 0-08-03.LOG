@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=UART_RX Pin=PLUGIN-3
+Added Pin To Net: NetName=UART_Tx Pin=PLUGIN-5

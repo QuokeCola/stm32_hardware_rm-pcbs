@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=THERMOL Pin=JP?-15
+Removed Pin From Net: NetName=THERMOH Pin=JP?-16
+Added Pin To Net: NetName=THERMOH Pin=JP?-15
+Added Pin To Net: NetName=THERMOL Pin=JP?-16

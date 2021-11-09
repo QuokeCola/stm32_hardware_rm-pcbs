@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PL08NSIG_OUT Pin=JP?-5
+Removed Pin From Net: NetName=PL08NG Pin=JP?-11
+Removed Pin From Net: NetName=PL08NH Pin=JP?-13
+Added Pin To Net: NetName=PL08NG Pin=JP?-5
+Added Pin To Net: NetName=PL08NH Pin=JP?-11
+Added Pin To Net: NetName=PL08NSIG_OUT Pin=JP?-13
+Added Room: Name=Schematic

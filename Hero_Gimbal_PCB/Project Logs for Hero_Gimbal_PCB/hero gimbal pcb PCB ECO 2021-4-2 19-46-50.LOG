@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=BOARD-1
+Removed Pin From Net: NetName=GIMBAL_DC Pin=BOARD-2
+Removed Pin From Net: NetName=GND Pin=FW_L-1
+Removed Pin From Net: NetName=AMMO_DC Pin=FW_L-2
+Removed Pin From Net: NetName=GND Pin=FW_R-1
+Removed Pin From Net: NetName=AMMO_DC Pin=FW_R-2
+Removed Pin From Net: NetName=GND Pin=JETSON-1
+Removed Pin From Net: NetName=MPC_DC Pin=JETSON-2
+Removed Pin From Net: NetName=GND Pin=PITCH-1
+Removed Pin From Net: NetName=GIMBAL_DC Pin=PITCH-2
+Added Pin To Net: NetName=GIMBAL_DC Pin=BOARD-1
+Added Pin To Net: NetName=GND Pin=BOARD-2
+Added Pin To Net: NetName=AMMO_DC Pin=FW_L-1
+Added Pin To Net: NetName=GND Pin=FW_L-2
+Added Pin To Net: NetName=AMMO_DC Pin=FW_R-1
+Added Pin To Net: NetName=GND Pin=FW_R-2
+Added Pin To Net: NetName=MPC_DC Pin=JETSON-1
+Added Pin To Net: NetName=GND Pin=JETSON-2
+Added Pin To Net: NetName=GIMBAL_DC Pin=PITCH-1
+Added Pin To Net: NetName=GND Pin=PITCH-2
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1

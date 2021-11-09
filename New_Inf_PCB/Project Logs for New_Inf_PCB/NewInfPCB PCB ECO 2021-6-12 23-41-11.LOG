@@ -1,0 +1,5 @@
+Added Component: Designator=*(GH1.25-LS-4P)
+Added Pin To Net: NetName=RXD Pin=*-2
+Added Pin To Net: NetName=TXD Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Member To Class: ClassName=NewInfSche Member=Component * gh1.25_4p

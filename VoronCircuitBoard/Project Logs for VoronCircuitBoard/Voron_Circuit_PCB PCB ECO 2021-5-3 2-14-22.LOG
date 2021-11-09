@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Fan Old Footprint=XH2.54-LI-4P New Footprint=XH2.54-WI-4P
+Change Component Footprint: Designator=Sensors Old Footprint=XH2.54-LI-5P New Footprint=XH2.54-WI-5P
+Added Pin To Net: NetName=FanGND Pin=Fan-2
+Added Pin To Net: NetName=FanGND Pin=Fan-4
+Added Net: Name=FanGND

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=PL08NSIG
+Added Pin To Net: NetName=PL08NSIG_OUT Pin=PL08NSIG-1
+Added Pin To Net: NetName=PL08NSIG_OUT Pin=PL08NSIG-2

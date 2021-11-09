@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MPC_DC Pin=CONNECTOR-1
+Removed Pin From Net: NetName=AMMO_DC Pin=CONNECTOR-2
+Removed Pin From Net: NetName=GIMBAL_DC Pin=CONNECTOR-3
+Removed Pin From Net: NetName=GND Pin=CONNECTOR-4
+Removed Pin From Net: NetName=CAN2_H Pin=CONNECTOR-5
+Removed Pin From Net: NetName=CAN2_L Pin=CONNECTOR-6
+Removed Pin From Net: NetName=REFEREE_A1 Pin=CONNECTOR-7
+Removed Pin From Net: NetName=REFEREE_A2 Pin=CONNECTOR-8
+Removed Pin From Net: NetName=REFEREE_A3 Pin=CONNECTOR-9
+Removed Pin From Net: NetName=REFEREE_UR Pin=CONNECTOR-10
+Removed Pin From Net: NetName=REFEREE_UT Pin=CONNECTOR-11
+Removed Pin From Net: NetName=REFEREE_GND Pin=CONNECTOR-12
+Added Pin To Net: NetName=REFEREE_A1 Pin=CONNECTOR-1
+Added Pin To Net: NetName=REFEREE_A2 Pin=CONNECTOR-2
+Added Pin To Net: NetName=REFEREE_A3 Pin=CONNECTOR-3
+Added Pin To Net: NetName=REFEREE_GND Pin=CONNECTOR-4
+Added Pin To Net: NetName=REFEREE_UR Pin=CONNECTOR-5
+Added Pin To Net: NetName=REFEREE_UT Pin=CONNECTOR-6
+Added Pin To Net: NetName=CAN2_H Pin=CONNECTOR-7
+Added Pin To Net: NetName=CAN2_L Pin=CONNECTOR-8
+Added Pin To Net: NetName=MPC_DC Pin=CONNECTOR-9
+Added Pin To Net: NetName=AMMO_DC Pin=CONNECTOR-10
+Added Pin To Net: NetName=GIMBAL_DC Pin=CONNECTOR-11
+Added Pin To Net: NetName=GND Pin=CONNECTOR-12
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Room: Name=Schematic

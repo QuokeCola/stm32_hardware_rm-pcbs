@@ -1,0 +1,5 @@
+Added Net: Name=BlowerHIGH
+Added Net: Name=BlowerLow
+Added Net: Name=CoolerHIGH
+Added Net: Name=CoolerLOW
+Added Room: Name=Schematic

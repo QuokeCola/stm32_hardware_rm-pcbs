@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PL08NG Pin=JP?-5
+Removed Pin From Net: NetName=PL08NH Pin=JP?-11
+Added Pin To Net: NetName=PL08NH Pin=JP?-5
+Added Pin To Net: NetName=PL08NG Pin=JP?-11

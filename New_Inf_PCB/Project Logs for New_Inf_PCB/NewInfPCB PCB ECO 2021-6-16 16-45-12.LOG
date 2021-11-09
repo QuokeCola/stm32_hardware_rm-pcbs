@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=REFEREE_A4 Pin=SIGPORT-1
+Removed Pin From Net: NetName=REFEREE_A3 Pin=SIGPORT-2
+Removed Pin From Net: NetName=REFEREE_A2 Pin=SIGPORT-3
+Removed Pin From Net: NetName=REFEREE_A1 Pin=SIGPORT-4
+Removed Pin From Net: NetName=REFEREE_B4 Pin=SIGPORT-5
+Removed Pin From Net: NetName=REFEREE_B3 Pin=SIGPORT-6
+Removed Pin From Net: NetName=REFEREE_B2 Pin=SIGPORT-7
+Removed Pin From Net: NetName=REFEREE_B1 Pin=SIGPORT-8
+Removed Pin From Net: NetName=UART_RX Pin=SIGPORT-9
+Removed Pin From Net: NetName=UART_Tx Pin=SIGPORT-10
+Removed Pin From Net: NetName=UART_GND Pin=SIGPORT-11
+Removed Pin From Net: NetName=CAN2_H Pin=SIGPORT-12
+Removed Pin From Net: NetName=CAN2_L Pin=SIGPORT-13
+Added Pin To Net: NetName=REFEREE_A4 Pin=SIGPORT-2
+Added Pin To Net: NetName=UART_RX Pin=SIGPORT-3
+Added Pin To Net: NetName=REFEREE_A3 Pin=SIGPORT-4
+Added Pin To Net: NetName=UART_Tx Pin=SIGPORT-5
+Added Pin To Net: NetName=REFEREE_A2 Pin=SIGPORT-6
+Added Pin To Net: NetName=UART_GND Pin=SIGPORT-7
+Added Pin To Net: NetName=REFEREE_A1 Pin=SIGPORT-8
+Added Pin To Net: NetName=CAN2_H Pin=SIGPORT-9
+Added Pin To Net: NetName=REFEREE_B4 Pin=SIGPORT-10
+Added Pin To Net: NetName=CAN2_L Pin=SIGPORT-11
+Added Pin To Net: NetName=REFEREE_B3 Pin=SIGPORT-12
+Added Pin To Net: NetName=REFEREE_B1 Pin=SIGPORT-13
+Added Pin To Net: NetName=REFEREE_B2 Pin=SIGPORT-14
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Room: Name=NewInfSche

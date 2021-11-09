@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BlowerHIGH Pin=JP?-1
+Removed Pin From Net: NetName=FanGND Pin=JP?-2
+Added Pin To Net: NetName=FanGND Pin=JP?-1
+Added Pin To Net: NetName=BlowerHIGH Pin=JP?-2
+Added Pin To Net: NetName=Motor4 Pin=JP?-6
+Added Pin To Net: NetName=Motor3 Pin=JP?-8
+Added Pin To Net: NetName=Motor2 Pin=JP?-10
+Added Pin To Net: NetName=Motor1 Pin=JP?-12

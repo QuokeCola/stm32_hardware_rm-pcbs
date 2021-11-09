@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=UART_GND Pin=JP_UART-1
+Removed Pin From Net: NetName=UART_Tx Pin=JP_UART-2
+Removed Pin From Net: NetName=UART_RX Pin=JP_UART-3
+Removed Member From Class: ClassName=schematic Member=JP_UART
+Added Component: Designator=JP?(HDR2.54-LI-3P)
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART_GND Pin=JP?-1
+Added Pin To Net: NetName=UART_Tx Pin=JP?-2
+Added Pin To Net: NetName=UART_RX Pin=JP?-3
+Added Member To Class: ClassName=schematic Member=Component JP? HDR-1X3

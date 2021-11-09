@@ -1,0 +1,22 @@
+Added Component: Designator=BAT85(DO-41)
+Add component (AddParameter): Name = "BOM名称"; Value = "快恢复二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "700V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=Extruder(XH2.54-LI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PL08NSIG Pin=BAT85-2
+Added Pin To Net: NetName=Motor1 Pin=Extruder-1
+Added Net: Name=Motor1
+Added Pin To Net: NetName=Motor2 Pin=Extruder-2
+Added Net: Name=Motor2
+Added Pin To Net: NetName=Motor3 Pin=Extruder-3
+Added Net: Name=Motor3
+Added Pin To Net: NetName=Motor4 Pin=Extruder-4
+Added Net: Name=Motor4
+Added Pin To Net: NetName=PL08NSIG_OUT Pin=BAT85-1
+Added Net: Name=PL08NSIG_OUT
+Added Member To Class: ClassName=Schematic Member=Component BAT85 FR107
+Added Member To Class: ClassName=Schematic Member=Component Extruder HDR-1X4

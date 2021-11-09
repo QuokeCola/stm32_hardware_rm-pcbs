@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=REFEREE_A1 Pin=REF_A-0
+Removed Pin From Net: NetName=REFEREE_A2 Pin=REF_A-1
+Removed Pin From Net: NetName=REFEREE_A3 Pin=REF_A-2
+Removed Pin From Net: NetName=REFEREE_A4 Pin=REF_A-3
+Removed Member From Class: ClassName=NewInfSche Member=REF_A
+Added Component: Designator=REF1(M8 CONNECTOR-LS)
+Added Component: Designator=REF2(M8 CONNECTOR-LS)
+Added Pin To Net: NetName=REFEREE_A1 Pin=REF1-0
+Added Pin To Net: NetName=REFEREE_A2 Pin=REF1-1
+Added Pin To Net: NetName=REFEREE_A3 Pin=REF1-2
+Added Pin To Net: NetName=REFEREE_A4 Pin=REF1-3
+Added Pin To Net: NetName=REFEREE_B1 Pin=REF2-0
+Added Pin To Net: NetName=REFEREE_B2 Pin=REF2-1
+Added Pin To Net: NetName=REFEREE_B3 Pin=REF2-2
+Added Pin To Net: NetName=REFEREE_B4 Pin=REF2-3
+Added Member To Class: ClassName=NewInfSche Member=Component REF1 Referee_Air
+Added Member To Class: ClassName=NewInfSche Member=Component REF2 Referee_Air

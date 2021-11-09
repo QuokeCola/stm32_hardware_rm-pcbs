@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=CoolerHIGH Pin=JP?-1
+Removed Pin From Net: NetName=CoolerLOW Pin=JP?-2
+Removed Pin From Net: NetName=BlowerHIGH Pin=JP?-3
+Removed Pin From Net: NetName=BlowerLow Pin=JP?-4
+Change Component Footprint: Designator=JP? Old Footprint=ZH1.5-WI-2P New Footprint=XH2.54-WI-9P
+Change Component Comment : Designator=JP? Old Comment=HDR-1X2 New Comment=HDR-1X9
+Change component parameters: Designator = "JP?" ("JP?"); Footprint = "ZH1.5-WI-2P"; UniqueID = "\VQACKUIU" ("\VQACKUIU")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "9P接插件"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "淘宝ID:黄晶宝石"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Heater(KF128-5.08-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CoolerHIGH Pin=JP?-1
+Added Pin To Net: NetName=CoolerLOW Pin=JP?-2
+Added Pin To Net: NetName=BlowerLow Pin=JP?-3
+Added Pin To Net: NetName=BlowerHIGH Pin=JP?-4
+Added Pin To Net: NetName=HeaterH Pin=Heater-1
+Added Net: Name=HeaterH
+Added Pin To Net: NetName=HeaterL Pin=Heater-2
+Added Net: Name=HeaterL
+Added Member To Class: ClassName=Schematic Member=Component Heater HDR-1X2

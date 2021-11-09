@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CoolerHIGH Pin=JP?-1
+Removed Pin From Net: NetName=CoolerLOW Pin=JP?-2
+Removed Pin From Net: NetName=BlowerLow Pin=JP?-3
+Removed Pin From Net: NetName=BlowerHIGH Pin=JP?-4
+Removed Member From Class: ClassName=Schematic Member=JP?
+Added Component: Designator=Fan(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=Sensors(XH2.54-WI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CoolerHIGH Pin=Fan-1
+Added Pin To Net: NetName=CoolerLOW Pin=Fan-2
+Added Pin To Net: NetName=BlowerHIGH Pin=Fan-3
+Added Pin To Net: NetName=BlowerLow Pin=Fan-4
+Added Pin To Net: NetName=PL08NG Pin=Sensors-2
+Added Net: Name=PL08NG
+Added Pin To Net: NetName=PL08NH Pin=Sensors-1
+Added Net: Name=PL08NH
+Added Pin To Net: NetName=PL08NSIG Pin=Sensors-3
+Added Net: Name=PL08NSIG
+Added Pin To Net: NetName=THERMOH Pin=Sensors-4
+Added Net: Name=THERMOH
+Added Pin To Net: NetName=THERMOL Pin=Sensors-5
+Added Net: Name=THERMOL
+Added Member To Class: ClassName=Schematic Member=Component Fan HDR-1X4
+Added Member To Class: ClassName=Schematic Member=Component Sensors HDR-1X5

@@ -1,0 +1,57 @@
+Added Component: Designator=POWER(64900621122)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6490xx21122.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "64900621122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "64900621122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "600VAC"; VariantName = "[No Variations]"
+Added Component: Designator=SIGPORT(DC-2.54-L-Z-14P)
+Added Pin To Net: NetName=AMMO_DC Pin=POWER-5
+Added Net: Name=AMMO_DC
+Added Pin To Net: NetName=AMMO_GND Pin=POWER-2
+Added Net: Name=AMMO_GND
+Added Pin To Net: NetName=CAN2_H Pin=SIGPORT-11
+Added Net: Name=CAN2_H
+Added Pin To Net: NetName=CAN2_L Pin=SIGPORT-9
+Added Net: Name=CAN2_L
+Added Pin To Net: NetName=GMB_DC Pin=POWER-4
+Added Net: Name=GMB_DC
+Added Pin To Net: NetName=GMB_GND Pin=POWER-1
+Added Net: Name=GMB_GND
+Added Pin To Net: NetName=MPC_DC Pin=POWER-6
+Added Net: Name=MPC_DC
+Added Pin To Net: NetName=MPC_GND Pin=POWER-3
+Added Net: Name=MPC_GND
+Added Pin To Net: NetName=REFEREE_A1 Pin=SIGPORT-6
+Added Net: Name=REFEREE_A1
+Added Pin To Net: NetName=REFEREE_A2 Pin=SIGPORT-4
+Added Net: Name=REFEREE_A2
+Added Pin To Net: NetName=REFEREE_A3 Pin=SIGPORT-8
+Added Net: Name=REFEREE_A3
+Added Pin To Net: NetName=REFEREE_A4 Pin=SIGPORT-2
+Added Net: Name=REFEREE_A4
+Added Pin To Net: NetName=REFEREE_B1 Pin=SIGPORT-14
+Added Net: Name=REFEREE_B1
+Added Pin To Net: NetName=REFEREE_B2 Pin=SIGPORT-12
+Added Net: Name=REFEREE_B2
+Added Pin To Net: NetName=REFEREE_B3 Pin=SIGPORT-13
+Added Net: Name=REFEREE_B3
+Added Pin To Net: NetName=REFEREE_B4 Pin=SIGPORT-10
+Added Net: Name=REFEREE_B4
+Added Pin To Net: NetName=UART_GND Pin=SIGPORT-3
+Added Net: Name=UART_GND
+Added Pin To Net: NetName=UART_RX Pin=SIGPORT-5
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_Tx Pin=SIGPORT-7
+Added Net: Name=UART_Tx
+Added Class: Name=Schematic
+Added Room: Name=Schematic

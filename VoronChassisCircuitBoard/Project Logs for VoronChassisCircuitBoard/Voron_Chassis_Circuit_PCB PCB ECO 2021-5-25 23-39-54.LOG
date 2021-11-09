@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Motor4 Pin=Extruder-1
+Removed Pin From Net: NetName=Motor3 Pin=Extruder-2
+Removed Pin From Net: NetName=Motor2 Pin=Extruder-3
+Removed Pin From Net: NetName=Motor1 Pin=Extruder-4
+Added Pin To Net: NetName=Motor1 Pin=Extruder-1
+Added Pin To Net: NetName=Motor2 Pin=Extruder-2
+Added Pin To Net: NetName=Motor3 Pin=Extruder-3
+Added Pin To Net: NetName=Motor4 Pin=Extruder-4

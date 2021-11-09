@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AMMO_GND Pin=RA-1
+Added Pin To Net: NetName=AMMO_DC Pin=RA-1
+Added Member To Class: ClassName=schematic Member=Component AMMO XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component GMB XT PLUGIN
+Added Member To Class: ClassName=schematic Member=Component MPC XT PLUGIN

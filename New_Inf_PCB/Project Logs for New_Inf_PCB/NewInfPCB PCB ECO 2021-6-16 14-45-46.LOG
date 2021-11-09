@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=REFEREE_B1 Pin=SIGPORT-1
+Removed Pin From Net: NetName=REFEREE_B2 Pin=SIGPORT-2
+Removed Pin From Net: NetName=REFEREE_B3 Pin=SIGPORT-3
+Removed Pin From Net: NetName=REFEREE_B4 Pin=SIGPORT-4
+Removed Pin From Net: NetName=REFEREE_A1 Pin=SIGPORT-5
+Removed Pin From Net: NetName=REFEREE_A2 Pin=SIGPORT-6
+Removed Pin From Net: NetName=REFEREE_A3 Pin=SIGPORT-7
+Removed Pin From Net: NetName=REFEREE_A4 Pin=SIGPORT-8
+Added Pin To Net: NetName=REFEREE_A1 Pin=SIGPORT-1
+Added Pin To Net: NetName=REFEREE_A2 Pin=SIGPORT-2
+Added Pin To Net: NetName=REFEREE_A3 Pin=SIGPORT-3
+Added Pin To Net: NetName=REFEREE_A4 Pin=SIGPORT-4
+Added Pin To Net: NetName=REFEREE_B1 Pin=SIGPORT-5
+Added Pin To Net: NetName=REFEREE_B2 Pin=SIGPORT-6
+Added Pin To Net: NetName=REFEREE_B3 Pin=SIGPORT-7
+Added Pin To Net: NetName=REFEREE_B4 Pin=SIGPORT-8
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Room: Name=NewInfSche

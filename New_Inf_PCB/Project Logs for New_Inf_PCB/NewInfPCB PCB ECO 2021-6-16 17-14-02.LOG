@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=REFEREE_B1 Pin=SIGPORT-13
+Removed Pin From Net: NetName=REFEREE_B3 Pin=SIGPORT-14
+Added Pin To Net: NetName=REFEREE_B3 Pin=SIGPORT-13
+Added Pin To Net: NetName=REFEREE_B1 Pin=SIGPORT-14
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Room: Name=NewInfSche

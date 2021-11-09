@@ -1,0 +1,72 @@
+Added Component: Designator=Blower(XH2.54-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Connector(IDC2.54-LI-2x8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=Cooler(XH2.54-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Extruder(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=Heater(KF2EDGK5.08-LI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=PL08N-P(XH2.54-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Thermo(XH2.54-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BlowerHIGH Pin=Blower-1
+Added Pin To Net: NetName=BlowerHIGH Pin=Connector-1
+Added Net: Name=BlowerHIGH
+Added Pin To Net: NetName=CoolerHIGH Pin=Connector-2
+Added Pin To Net: NetName=CoolerHIGH Pin=Cooler-1
+Added Net: Name=CoolerHIGH
+Added Pin To Net: NetName=FanGND Pin=Blower-2
+Added Pin To Net: NetName=FanGND Pin=Connector-3
+Added Pin To Net: NetName=FanGND Pin=Cooler-2
+Added Net: Name=FanGND
+Added Pin To Net: NetName=HeaterH Pin=Connector-10
+Added Pin To Net: NetName=HeaterH Pin=Heater-2
+Added Net: Name=HeaterH
+Added Pin To Net: NetName=HeaterL Pin=Connector-8
+Added Pin To Net: NetName=HeaterL Pin=Heater-1
+Added Net: Name=HeaterL
+Added Pin To Net: NetName=Motor1 Pin=Connector-14
+Added Pin To Net: NetName=Motor1 Pin=Extruder-4
+Added Net: Name=Motor1
+Added Pin To Net: NetName=Motor2 Pin=Connector-12
+Added Pin To Net: NetName=Motor2 Pin=Extruder-3
+Added Net: Name=Motor2
+Added Pin To Net: NetName=Motor3 Pin=Connector-6
+Added Pin To Net: NetName=Motor3 Pin=Extruder-2
+Added Net: Name=Motor3
+Added Pin To Net: NetName=Motor4 Pin=Connector-4
+Added Pin To Net: NetName=Motor4 Pin=Extruder-1
+Added Net: Name=Motor4
+Added Pin To Net: NetName=PL08NG Pin=Connector-11
+Added Pin To Net: NetName=PL08NG Pin=PL08N-P-2
+Added Net: Name=PL08NG
+Added Pin To Net: NetName=PL08NH Pin=Connector-5
+Added Pin To Net: NetName=PL08NH Pin=PL08N-P-1
+Added Net: Name=PL08NH
+Added Pin To Net: NetName=PL08NSIG_OUT Pin=Connector-13
+Added Net: Name=PL08NSIG_OUT
+Added Pin To Net: NetName=THERMOH Pin=Connector-15
+Added Pin To Net: NetName=THERMOH Pin=Thermo-1
+Added Net: Name=THERMOH
+Added Pin To Net: NetName=THERMOL Pin=Connector-16
+Added Pin To Net: NetName=THERMOL Pin=Thermo-2
+Added Net: Name=THERMOL
+Added Class: Name=Schematic
+Added Room: Name=Schematic

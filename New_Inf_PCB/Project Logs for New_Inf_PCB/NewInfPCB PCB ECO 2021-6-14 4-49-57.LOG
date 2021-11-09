@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CAN2_L Pin=CAN2-1
+Removed Pin From Net: NetName=CAN2_H Pin=CAN2-2
+Removed Pin From Net: NetName=CAN2_L Pin=CAN2-MP1
+Removed Pin From Net: NetName=CAN2_H Pin=CAN2-MP2
+Removed Pin From Net: NetName=UART_GND Pin=RF_UART-2
+Removed Pin From Net: NetName=UART_Tx Pin=RF_UART-3
+Removed Pin From Net: NetName=UART_RX Pin=RF_UART-4
+Change Component Footprint: Designator=CAN2 Old Footprint=JST-BM02B-GHS-TBT_V New Footprint=GH1.25-LS-4P
+Change Component Comment : Designator=CAN2 Old Comment=CAN2 New Comment=gh1.25_4p
+Change Managed Component Library Link : Designator=CAN2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1AB88AA9-F6CA-4AFA-A2CC-408489898FE2 New ItemGUID= Old RevisionGUID=3E5BD1E9-7EAE-47F0-B213-C56C634C5C5F New RevisionGUID=
+Change component parameters: Designator = "CAN2" ("CAN2"); Footprint = "JST-BM02B-GHS-TBT_V"; UniqueID = "\EEPCSPID" ("\EEPCSPID")
+Added Pin To Net: NetName=CAN2_H Pin=CAN2-3
+Added Pin To Net: NetName=CAN2_L Pin=CAN2-4
+Added Pin To Net: NetName=UART_Tx Pin=RF_UART-1
+Added Pin To Net: NetName=UART_RX Pin=RF_UART-2
+Added Pin To Net: NetName=UART_GND Pin=RF_UART-3
+Added Member To Class: ClassName=NewInfSche Member=Component SERIAL 4 HEADER
+Added Room: Name=NewInfSche

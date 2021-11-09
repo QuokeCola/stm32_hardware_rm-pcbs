@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=HeaterL Pin=Heater-1
+Removed Pin From Net: NetName=HeaterH Pin=Heater-2
+Added Pin To Net: NetName=HeaterH Pin=Heater-1
+Added Pin To Net: NetName=HeaterL Pin=Heater-2

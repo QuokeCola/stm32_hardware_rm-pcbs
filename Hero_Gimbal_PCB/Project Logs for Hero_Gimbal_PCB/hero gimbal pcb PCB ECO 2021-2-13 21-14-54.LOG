@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=REF_A Old DesignItemId=Referee_Air New DesignItemId=
+Change Component Library : Designator=REF_A Old Library=SchematicLib.SchLib New Library=Miscellaneous Devices.IntLib
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN1
+Added Room: Name=Schematic

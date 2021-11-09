@@ -1,0 +1,161 @@
+Added Component: Designator=*(M8 Connector)
+Added Component: Designator=BOARD(XT30-M)
+Added Component: Designator=CAN1_FW_L(JST-BM02B-GHS-TBT_V)
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "OuterShroudContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "LockingRamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST-Sales-America-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BM02B-GHS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049"(1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=CAN2(GH1.25-LS-4P)
+Added Component: Designator=CAN_BOARD(JST-BM02B-GHS-TBT_V)
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "OuterShroudContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "LockingRamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST-Sales-America-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BM02B-GHS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049"(1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=CAN_FW_R(JST-BM02B-GHS-TBT_V)
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "OuterShroudContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "LockingRamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST-Sales-America-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BM02B-GHS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049"(1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=CAN_PITCH(JST-BM02B-GHS-TBT_V)
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "OuterShroudContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eGH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "05/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "LockingRamp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST-Sales-America-Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Disconnectable Crimp Style Connector, Pitch 1.25 mm, 1 x 2 Position, Height 4.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "BM02B-GHS-TBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.049"(1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=CONNECTOR(KF2EDGK5.08-LI-12P)
+Add component (AddParameter): Name = "BOM名称"; Value = "12P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝卖家 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=FW_L(XT30-M)
+Added Component: Designator=FW_R(XT30-M)
+Added Component: Designator=PITCH_6020(XT30-M)
+Added Component: Designator=REF_UART(GH1.25-LS-4P)
+Added Pin To Net: NetName=REFEREE_A1 Pin=*-0
+Added Pin To Net: NetName=REFEREE_A2 Pin=*-1
+Added Pin To Net: NetName=REFEREE_GND Pin=*-2
+Added Pin To Net: NetName=REFEREE_A3 Pin=*-3
+Added Pin To Net: NetName=GND Pin=BOARD-1
+Added Pin To Net: NetName=GIMBAL_DC Pin=BOARD-2
+Added Pin To Net: NetName=CAN2_H Pin=CAN2-3
+Added Pin To Net: NetName=CAN2_L Pin=CAN2-4
+Added Pin To Net: NetName=MPC_DC Pin=CONNECTOR-1
+Added Pin To Net: NetName=AMMO_DC Pin=CONNECTOR-2
+Added Pin To Net: NetName=GIMBAL_DC Pin=CONNECTOR-3
+Added Pin To Net: NetName=GND Pin=CONNECTOR-4
+Added Pin To Net: NetName=CAN2_H Pin=CONNECTOR-5
+Added Pin To Net: NetName=CAN2_L Pin=CONNECTOR-6
+Added Pin To Net: NetName=REFEREE_A1 Pin=CONNECTOR-7
+Added Pin To Net: NetName=REFEREE_A2 Pin=CONNECTOR-8
+Added Pin To Net: NetName=REFEREE_A3 Pin=CONNECTOR-9
+Added Pin To Net: NetName=REFEREE_UR Pin=CONNECTOR-10
+Added Pin To Net: NetName=REFEREE_UT Pin=CONNECTOR-11
+Added Pin To Net: NetName=REFEREE_GND Pin=CONNECTOR-12
+Added Pin To Net: NetName=GND Pin=FW_L-1
+Added Pin To Net: NetName=AMMO_DC Pin=FW_L-2
+Added Pin To Net: NetName=GND Pin=FW_R-1
+Added Pin To Net: NetName=AMMO_DC Pin=FW_R-2
+Added Pin To Net: NetName=GND Pin=PITCH_6020-1
+Added Pin To Net: NetName=GIMBAL_DC Pin=PITCH_6020-2
+Added Pin To Net: NetName=REFEREE_UT Pin=REF_UART-2
+Added Pin To Net: NetName=REFEREE_UR Pin=REF_UART-3
+Added Pin To Net: NetName=REFEREE_GND Pin=REF_UART-4
+Added Member To Class: ClassName=Schematic Member=Component * Referee_Air
+Added Member To Class: ClassName=Schematic Member=Component BOARD XT PLUGIN
+Added Member To Class: ClassName=Schematic Member=Component CAN1_FW_L CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN2 gh1.25_4p
+Added Member To Class: ClassName=Schematic Member=Component CAN_BOARD CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN_FW_R CAN1
+Added Member To Class: ClassName=Schematic Member=Component CAN_PITCH CAN1
+Added Member To Class: ClassName=Schematic Member=Component CONNECTOR HDR-1X12
+Added Member To Class: ClassName=Schematic Member=Component FW_L XT PLUGIN
+Added Member To Class: ClassName=Schematic Member=Component FW_R XT PLUGIN
+Added Member To Class: ClassName=Schematic Member=Component PITCH_6020 XT PLUGIN
+Added Member To Class: ClassName=Schematic Member=Component REF_UART gh1.25_4p
+Added Room: Name=Schematic

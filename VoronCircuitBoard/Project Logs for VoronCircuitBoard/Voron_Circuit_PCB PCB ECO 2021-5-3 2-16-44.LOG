@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PL08NH Pin=Sensors-1
+Removed Pin From Net: NetName=PL08NG Pin=Sensors-2
+Removed Pin From Net: NetName=PL08NSIG Pin=Sensors-3
+Removed Pin From Net: NetName=THERMOH Pin=Sensors-4
+Removed Pin From Net: NetName=THERMOL Pin=Sensors-5
+Removed Member From Class: ClassName=Schematic Member=Sensors
+Change Component Footprint: Designator=Fan Old Footprint=XH2.54-WI-4P New Footprint=XH2.54-LI-4P
+Added Component: Designator=Sensor(XH2.54-LI-5P)
+Add component (AddParameter): Name = "BOM名称"; Value = "5P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PL08NH Pin=Sensor-1
+Added Pin To Net: NetName=PL08NG Pin=Sensor-2
+Added Pin To Net: NetName=PL08NSIG Pin=Sensor-3
+Added Pin To Net: NetName=THERMOH Pin=Sensor-4
+Added Pin To Net: NetName=THERMOL Pin=Sensor-5
+Added Member To Class: ClassName=Schematic Member=Component Sensor HDR-1X5
