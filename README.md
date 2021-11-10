@@ -35,8 +35,8 @@ As jetson nano were applied to the new gimbal, new features include upload firmw
 
 Previous PCB consists of 4 layers, which is time-consuming and costly for manufacturing. Instead, the new PCB adopted 2 layer design, while ensure the stability of the function. It integrates CP2102 and ST-Link into a single board, while connects the CAN BUS to control the chassis motors and the power supply for electronics on gimbal.
 <div style="display: flex">
-    <img alt="Standard Gimbal PCB v2.0" src="ScreenShots/Standard_Chassis_PCB_v2.0.png" width="40%"/>
-    <img alt="Standard Gimbal PCB v2.0" src="ScreenShots/Standard_Chassis_PCB_v2.0-3D.png" width="40%"/>
+    <img alt="Standard Gimbal PCB v2.0" src="ScreenShots/Standard_Gimbal_PCB_v2.0.png" width="40%"/>
+    <img alt="Standard Gimbal PCB v2.0" src="ScreenShots/Standard_Gimbal_PCB_v2.0-3D.png" width="40%"/>
     <img alt="Standard Chassis PCB v2.0" src="ScreenShots/Standard_Chassis_PCB_v2.0.png" width="40%"/>
     <img alt="Standard Chassis PCB v2.0" src="ScreenShots/Standard_Chassis_PCB_v2.0-3D.png" width="40%"/>
     <img alt="Standard sub YAW PCB" src="ScreenShots/Standard_subYAW_PCB_v2.0.png" width="40%"/>
