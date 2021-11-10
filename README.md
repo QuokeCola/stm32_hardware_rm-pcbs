@@ -13,8 +13,9 @@ PCB installed on gimbal adopted a rotatable design, simplified the maintaining p
 </div>
 
 # Hero PCB v2.0
-<div style="display: flex">
+
 With the development of next generation robot, PCBs were also modified. For simplicity, LEDs on chassis PCB were removed. The connectors were changed to horizontal so it took less space.
+<div style="display: flex">
     <img alt="Hero Gimbal PCB v2.0"  src="ScreenShots/Hero_Gimbal_PCB_v2.0.png" width="40%"/>
     <img alt="Hero Gimbal PCB v2.0"  src="ScreenShots/Hero_Gimbal_PCB_v2.0-3D.png" width="40%"/>
     <img alt="Hero Chassis PCB v2.0" src="ScreenShots/Hero_Chassis_PCB_v2.0.png" width="40%"/>
